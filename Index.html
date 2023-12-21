@@ -15,14 +15,14 @@
 
     <h1>Home Page</h1>
 
-    <img src="../Images1/Outdoor Pickleball Courts in the day.jpg" alt="Outdoor Green Pickleball Courts">
+    <img src="Images1/Outdoor Pickleball Courts in the day.jpg" alt="Outdoor Green Pickleball Courts">
 
     <p></p>
     <p></p>
     <p></p>
     <p></p>
     <p></p>
-    <h5>This is my super awesome Tableau Dashboard Online</h5>
+    <h3>This is my super awesome Tableau Dashboard Online</h3>
     <div class='tableauPlaceholder' id='viz1703180644386' style='position: relative'>
         <noscript><a href='#'>
             <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RegionalSampleWorkbook&#47;Obesity&#47;1_rss.png' style='border: none' />
@@ -47,7 +47,7 @@
     <p></p>
     <p></p>
     <p></p>
-    <h5>This is a Youtube video I created and love</h5>
+    <h3>This is a Youtube video I created and love</h3>
     <hr />
     <iframe width="560" height="315" src="https://www.youtube.com/embed/mLZIsHnnzJU?si=vADc4d09BS1cUGT1" 
     title="YouTube video player" frameborder="0" 
